@@ -1,5 +1,5 @@
 # web-test
 
-##Examples
+## Examples
 
-This is a exam
+This is a example
